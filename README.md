@@ -4,6 +4,12 @@ This list contains the best free online resources to help you study mathematics 
 
 ## 🔗 Useful Websites
 
+### 🤖 AI Tools for Mathematics
+- [Math-GPT](https://math-gpt.org/) - AI-powered tool for solving and understanding math problems.
+
+### 💬 Discord Servers
+- [Mathematics Discord](https://discord.gg/math) - A large community for discussing and learning mathematics.
+
 ### 👨‍🏫 Online Courses and Lectures
 - [Khan Academy](https://www.khanacademy.org/) - Detailed explanations for high school and university-level mathematics.
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/) - Free university courses from MIT.
@@ -22,6 +28,7 @@ This list contains the best free online resources to help you study mathematics 
 - [Desmos](https://www.desmos.com/) - Online graphing calculator and other tools.
 - [GeoGebra](https://www.geogebra.org/) - Interactive geometry, algebra, and calculus tools.
 - [Wolfram Alpha](https://www.wolframalpha.com/) - Mathematical calculations and visualizations.
+
 
 ## 💡 How to Use This List?
 - Find the category that suits your needs.
